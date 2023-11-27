@@ -1,2 +1,2 @@
-# PhaseFusion
-PhaseFusion: A Diffusion-based Periodic Parameterized Motion Generation Framework
+# DiffusionPhase
+Diffusionphase: Motion Diffusion in Frequency Domain
